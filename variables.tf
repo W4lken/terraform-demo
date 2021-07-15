@@ -49,7 +49,7 @@ variable "nsx_password" {
   sensitive   = true
 }
 variable "avi_username" {
-  description = "AVI administrator password"
+  description = "AVI administrator username"
   type        = string
   sensitive   = true
 }
